@@ -79,6 +79,7 @@
     <Content Include="js\main.js" />
     <Content Include="css\default.css" />
     <Content Include="ForLoop.html" />
+    <Content Include="MultiplicationTable.html" />
     <Content Include="whileLoop.html" />
     <None Include="C0747562_CSD2214_SECTION5_WEEK6_TemporaryKey.pfx" />
   </ItemGroup>
